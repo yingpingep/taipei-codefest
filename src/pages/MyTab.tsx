@@ -2,10 +2,10 @@ import {Box, Flex, Group, Input, ScrollArea, Stack, Text, Image} from '@mantine/
 import './MyTab.css';
 import {IconSearch} from '@tabler/icons-react';
 import primary_icon_expand from '../assets/primary_icon_expand.svg';
-import f1 from '../assets/1.jpg';
-import f2 from '../assets/2.jpg';
-import f3 from '../assets/3.jpg';
-import f4 from '../assets/4.jpg';
+import f1 from '../assets/5.jpg';
+import f2 from '../assets/6.jpg';
+import f3 from '../assets/7.jpg';
+import f4 from '../assets/8.jpg';
 
 const MyBenefit = () => {
   const items = Array.from({ length: 10 }, (_, k) => k + 1);
