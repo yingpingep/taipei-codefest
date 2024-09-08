@@ -59,17 +59,17 @@ const MySubsidy = () => {
     {
       title: "第一個可用的補助",
       imgSrc:f2,
-      url: "https://welfare.ntpc.gov.tw/viewService/show/1008086?fromOpa=1"
+      url: "https://eso.gov.taipei/News_Content.aspx?n=DF02DE8E0A136367&s=99D9DD12AC10698D"
     },
     {
       title: "第二個可用的福利",
       imgSrc:f3,
-      url: "https://welfare.ntpc.gov.tw/viewService/show/1008086?fromOpa=1"
+      url: ""
     },
     {
       title: "第三個可用的福利",
       imgSrc:f4,
-      url: "https://welfare.ntpc.gov.tw/viewService/show/1008086?fromOpa=1"
+      url: ""
     },
   ];
   return <Stack>
@@ -97,7 +97,9 @@ const MySubsidy = () => {
               textAlign: 'center',
             }}
             onClick={() => {
-              window.location.href = item.url;
+              if (item.url) {
+                window.location.href = item.url;
+              }
             }}
           >
             <Stack gap={2}>
