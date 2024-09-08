@@ -1,0 +1,41 @@
+.my-tabs {
+    height: 100vh;
+
+    .mantine-Tabs-root {
+        :before {
+            content: none;
+        }
+    }
+
+    .mantine-Tabs-list {
+        background-color: var(--mantine-color-body);
+        border: none;
+    }
+
+    .mantine-Tabs-tab {
+        height: 46px;
+    }
+
+    .mantine-Tab-panel {
+        padding: 20px;
+    }
+
+    [data-active=true] {
+        border: none;
+        color: var(--tabs-color);
+    }
+
+    [data-active=true]:before {
+        content: '';
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        border-width: var(--tabs-list-border-size);
+        border-style: solid;
+        bottom: var(--tabs-list-line-bottom);
+        /*inset-inline-start: var(--tabs-list-line-start);*/
+        /*inset-inline-end: var(--tabs-list-line-end);*/
+        top: var(--tabs-list-line-top);
+        width: 90%;
+    }
+}

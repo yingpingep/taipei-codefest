@@ -1,0 +1,77 @@
+[
+  {
+    "title": "重陽敬老禮金",
+    "category": "遊",
+    "serviceDescription": "重陽敬老禮金,2024/08/23-2024/10/20,服務對象重陽敬老禮金發給對象為設籍本市至重陽節當日已達 3 個月以上，且於當年 12 月 31 日年滿 65 歲以上長者或年滿 55 歲以上原住民族長者。洽辦單位 社會局老人福利科，聯絡電話：1999（外縣市 02-27208889）轉 6967。",
+    "targetAudience": "年滿 65 歲以上長者或年滿 55 歲以上原住民族長者",
+    "serviceTime": "",
+    "contactInformation": "社會局老人福利科, 聯絡電話：1999（外縣市 02-27208889）轉 6967",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=2AD02270ED65CBDD",
+    "classification": {
+      "residence": "設籍本市",
+      "age": "55歲以上,65歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "長青學苑",
+    "category": "樂",
+    "serviceDescription": "長青學苑,2024,服務對象 年滿 60 歲以上且本人、配偶或其直系血親設籍本市者均可報名。服務內容提供生活資訊、語文、繪畫藝術、體適能保健、表演藝術、園藝綠化等課程研習服務。洽辦單位社會局老人福利科 1999（外縣市 02-27208889）轉 6967；或至社會局局網查詢。",
+    "targetAudience": "年滿 60 歲以上且本人、配偶或其直系血親設籍本市者",
+    "serviceTime": "",
+    "contactInformation": "社會局老人福利科1999（外縣市 02-27208889）轉 6967",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/News_Content.aspx?n=222C9779823FA161&s=F87AB6F01D00AB13",
+    "classification": {
+      "residence": "設籍本市",
+      "age": "60歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "老人健康檢查",
+    "category": "醫",
+    "serviceDescription": "2024,服務對象領有中華民國身分證且設籍臺北市，年滿 65 歲以上市民或年滿 55 歲以上原住民市民（無健保資格者亦可）。服務內容 免費健康檢查。洽辦單位1、衛生局健康管理科，聯絡電話 1999( 外縣市 02-27208889) 分機 1803或 1805。2、臺北市老人健檢特約醫事機構公告於臺北市政府衛生局網站。",
+    "targetAudience": "年滿 65 歲以上市民或年滿 55 歲以上原住民市民",
+    "serviceTime": "",
+    "contactInformation": "衛生局健康管理科 1999 (外縣市 02-27208889) 分機 1803或 1805",
+    "applicationProcessAndLinks": "https://health.gov.taipei/News.aspx?n=CFB3FEAAB7A4F449&sms=77ECFACEF64CB53F",
+    "classification": {
+      "residence": "設籍臺北市",
+      "age": "55歲以上且為原住民,65歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "中低老人生活津貼",
+    "category": "醫",
+    "serviceDescription": "中低老人生活津貼,2024,服務對象包括年滿 65 歲，實際居住本市且最近一年居住國內超過 183 日，未經政府公費收容安置，家庭總收入平均分配全家人口，每人每月金額符合規定者，動產合計限額及土地房屋價值合計不超過規定者。",
+    "targetAudience": "年滿 65 歲老人，居住本市且有符合收入及財產條件者",
+    "serviceTime": "",
+    "contactInformation": "戶籍所在地區公所社會課",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=FCF3DAE98DDA289F",
+    "classification": {
+      "residence": "設籍本市",
+      "age": "65歲以上",
+      "disability": "none",
+      "income": "中低收入"
+    }
+  },
+  {
+    "title": "日間照顧",
+    "category": "顧",
+    "serviceDescription": "日間照顧,2024,服務對象長照需要等級第 2 級（含）以上，且須經長期照顧管理中心評估核定使用本市社區長照機構（日間照顧）：1、65 歲以上長者。2、領有身心障礙證明 ( 手冊 ) 者。3、55 歲以上原住民。4、年滿 50 歲以上失智症者。註：本市日間照顧服務機構依主要服務對象區分失能身心障礙者及老人日照。服務內容提供失智、失能長者日間照顧服務，補助標準依長期照顧管理中心評估核定結果。",
+    "targetAudience": "65歲以上長者,領有身心障礙證明者,55歲以上原住民,50歲以上失智症者",
+    "serviceTime": "",
+    "contactInformation": "電洽 1966 長照服務專線申請，相關資訊可至社會局局網查詢",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/News.aspx?n=5EF22734BA80A829&sms=96505C2A85F034FD",
+    "classification": {
+      "residence": "none",
+      "age": "50歲以上,55歲以上,65歲以上",
+      "disability": "身心障礙",
+      "income": "none"
+    }
+  }
+]

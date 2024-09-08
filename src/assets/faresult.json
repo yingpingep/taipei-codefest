@@ -1,0 +1,617 @@
+[
+  {
+    "title": "高齡友善公車候車亭",
+    "category": "交通休閒篇",
+    "serviceDescription": "為改善本市公車候車環境，依民眾需求辦理候車亭設置之可行性會勘，藉由增設候車亭及座椅，提供高齡者及身心障礙者於候車時休憩使用。",
+    "targetAudience": "無條件限制",
+    "serviceTime": "每日00:00-24:00",
+    "contactInformation": "臺北市公共運輸處 (02)2727-4168",
+    "applicationProcessAndLinks": "",
+    "classification": {
+      "residence": "none",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "低地板公車",
+    "category": "交通休閒篇",
+    "serviceDescription": "為建構無障礙及通用化公車系統，以提供年長者、身障者及孕婦、幼童及一般民眾更安全、舒適之無障礙運輸環境。",
+    "targetAudience": "無條件限制",
+    "serviceTime": "每日公車營運時間",
+    "contactInformation": "臺北市公共運輸處 (02)2727-4168",
+    "applicationProcessAndLinks": "",
+    "classification": {
+      "residence": "none",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "登山步道",
+    "category": "交通休閒篇",
+    "serviceDescription": "介紹本市範圍內154條休閒親山步道供民眾休閒遊憩，免付費。",
+    "targetAudience": "無條件限制",
+    "serviceTime": "每週一至週五 08:30-17:00",
+    "contactInformation": "臺北市工務局大地工程處道路步道科(02)2759-3001",
+    "applicationProcessAndLinks": "https://gisweb.taipei.gov.tw/release/",
+    "classification": {
+      "residence": "none",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "臺北市社會福利主題地圖",
+    "category": "健康保健篇",
+    "serviceDescription": "集合兒童、嬰兒托育，銀髮族課程、共餐，老人日間照顧機構或床位，身心障礙找工作及機構公開資料，提供地圖找查服務",
+    "targetAudience": "請參閱連結資料",
+    "serviceTime": "請參閱連結資料",
+    "contactInformation": "請參閱連結資料",
+    "applicationProcessAndLinks": "https://map.dosw.gov.taipei/taipeiWelfare_map/all_new/",
+    "classification": {
+      "residence": "none",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "高齡友善健康服務中心",
+    "category": "健康保健篇",
+    "serviceDescription": "本市十二區健康服務中心提供長者友善、支持、尊重與可近環境，營造符合在地長者需求之高齡友善場域，服務項目包含推廣長者參與志工服務、辦理多重慢性疾病健康照護管理及提供健康暨體適能便利站等。",
+    "targetAudience": "",
+    "serviceTime": "",
+    "contactInformation": "臺北市12區健康服務中心聯絡方式，請點選網頁左方按鈕了解詳情。",
+    "applicationProcessAndLinks": "https://health.gov.taipei/cp.aspx?n=43D2F011F36207ED",
+    "classification": {
+      "residence": "none",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "申請社區式長照服務",
+    "category": "失能照護篇",
+    "serviceDescription": "服務項目：日間照顧 、家庭托顧、小規模多機能。補助方式：在核定之長照服務額度內，一般戶部分負擔16%、長照中低收入戶部分負擔5%、長照低收入戶由政府全額補助。",
+    "targetAudience": "",
+    "serviceTime": "",
+    "contactInformation": "臺北市長期照顧管理中心長照專線1966",
+    "applicationProcessAndLinks": "https://health.gov.taipei/News.aspx?n=C5F4429E2CE43404&sms=CC2A5A87CB23E662",
+    "classification": {
+      "residence": "none",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "申請居家式長照服務",
+    "category": "失能照護篇",
+    "serviceDescription": "服務項目：居家服務、居家復能照護、營養照護、進食與吞嚥照護、居家護理指導與諮詢。補助方式：在核定之長照服務額度內，一般戶部分負擔16%、長照中低收入戶部分負擔5%、長照低收入戶由政府全額補助。",
+    "targetAudience": "一、65 歲以上老人二、領有身心障礙證明(手冊)者三、55-64 歲原住民四、50 歲以上失智症",
+    "serviceTime": "",
+    "contactInformation": "臺北市長期照顧管理中心長照專線1966",
+    "applicationProcessAndLinks": "https://health.gov.taipei/News.aspx?n=FABC850F5D953E66&sms=BB26374E08CE9E10",
+    "classification": {
+      "residence": "none",
+      "age": "65歲以上, 55-64歲原住民, 50歲以上失智症",
+      "disability": "失智, 身障/失能",
+      "income": "none"
+    }
+  },
+  {
+    "title": "身體照顧、日常生活照顧及家事服務",
+    "category": "失能照護篇",
+    "serviceDescription": "提供身體照顧、日常生活照顧及家事服務項目，長照個案依據長期照顧給付及支付基準收費，自費個案依各機構報送本局之收費方式辦理收費。",
+    "targetAudience": "符合長期照顧十年計畫 2.0 之個案（下列條件之一），並經長期照顧管理中心派員實際評估後，長照等級達2級以上者：・ 65 歲以上失能老人・ 失能身心障礙者・ 55 歲以上失能原住民・ 50 歲以上失智症患者",
+    "serviceTime": "每週一至週五 09:00-17:00",
+    "contactInformation": "本市居家服務提供單位一覽，請點選網頁左方按鈕了解詳情。",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=F07637F92E4E85A0",
+    "classification": {
+      "residence": "none",
+      "age": "50歲以上,55歲以上,55歲以上且為原住民,60歲以上,65歲以上",
+      "disability": "失智,身障/失能,長照等級2級以上,其他",
+      "income": "none"
+    }
+  },
+  {
+    "title": "老人收容安置補助計畫",
+    "category": "失能照護篇",
+    "serviceDescription": "為因應本市老人長期照顧服務需求，以減輕家庭照顧者之負擔，提供中低收入戶中重度6,300元至27,250元不等之補助金額，惟已歇業、停業及廢止之機構無法補助。",
+    "targetAudience": "設籍且實際居住本市滿一年，年滿65歲之中低收入戶市民(包含低收入戶,中低收入戶及領有中低收入老人生活津貼資格)，安置或入住於本市、基隆市、新北市及宜蘭縣評鑑合格之機構住宿式服務類長期照顧服務機構或本市經評鑑(督考)為乙等以上(以低收入戶身分申請者需甲等以上)，或基隆市、新北市及宜蘭縣經評鑑(督考)為甲等以上之老人長期照顧機構或護理之家。",
+    "serviceTime": "每週一至週五 09:00-17:00",
+    "contactInformation": "戶籍所在地行政區與臺北市政府社會局老人福利科承辦人・信義區、南港區 ：鄭小姐 (02)2720-8889 #1670・大同區、松山區 ：林小姐 (02)2720-8889 #1665・ 大安區、北投區、萬華區 ：陳小姐 (02)2720-8889  #1668・ 士林區、內湖區、文山區、中正區 、中山區：趙先生 (02)2720-8889 #1667",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=2A069CBD089B5C1A",
+    "classification": {
+      "residence": "\n",
+      "age": "65歲以上",
+      "disability": "none",
+      "income": "低收入戶,中低收入戶"
+    }
+  },
+  {
+    "title": "身心障礙者輔具費用補助",
+    "category": "失能照護篇",
+    "serviceDescription": "・ 其他內容詳見衛生福利部頒訂之「身心障礙者輔具費用補助辦法」及其附表相關規定。",
+    "targetAudience": "設籍本市且最近一年居住國內達183日，並領有本市核(換、補)發身心障礙證明者。",
+    "serviceTime": "",
+    "contactInformation": "・西區輔具中心(02)2523-7902（服務地區：松山區、萬華區、中正區、大安區）",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=49304F9B0793FFEF",
+    "classification": {
+      "residence": "設籍本市",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "中低收入老人特別照顧津貼",
+    "category": "失能照護篇",
+    "serviceDescription": "為減輕照顧者因照顧老人無法外出就業之經濟負擔，經審核通過並接受每月至家中進行督導者，補助每月5,000元。",
+    "targetAudience": "受照顧者：（下列條件需同時符合）・ 領有中低收入老人生活津貼。・ 未接受機構收容安置、居家服務、未僱用看護（傭）、未領有政府提供之日間照顧服務補助、中低收入老人重病住院看護補助及政府提供之其他照顧服務補助。・ 失能程度經本局指定或委託之評估單位（人員）作日常生活活動功能量表評估為重度以上，且實際由家人照顧。・ 實際居住於戶籍所在地。照顧者：・ 年滿16歲，未滿65歲，且無「社會救助法第5條之3第1款至第3款、第6款及第7款規定」之情事。・ 屬下列情形之一者：1. 同為領取中低收入老人生活津貼應計算家庭總收入全家人口之成員。2. 出嫁之女兒或子為他人贅夫者及其配偶。3. 受照顧者二親等以內之直系血親卑親屬。・ 未從事全時工作，且實際負責照顧受照顧者。・ 與受照顧者設籍及實際居住於本市。",
+    "serviceTime": "每週一至週五 09:00-17:00",
+    "contactInformation": "・ 大同老人服務中心 (02)2592-9808・ 大安老人服務中心 (02)2708-6255・ 松山老人服務中心 (02)2768-5636・ 士林老人服務中心 (02)2838-1571・ 中山老人住宅暨服務中心 (02)2542-0006・ 中正老人服務中心 (02)2381-4571・ 中正國宅銀髮族服務中心 (02)2309-0660・ 內湖老人服務中心 (02)2632-5560・ 文山老人服務中心 (02)2234-4893・ 北投老人服務中心 (02)2892-9702・ 信義老人服務中心 (02)8787-0300・ 南港老人服務中心 (02)2653-5311・ 萬華老人服務中心 (02)2361-0666・ 萬華龍山老人服務中心 (02)2336-1880",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=71A6E290CB53671F",
+    "classification": {
+      "residence": "其他",
+      "age": "none",
+      "disability": "失能",
+      "income": "中低收入"
+    }
+  },
+  {
+    "title": "中低老人住宅修繕",
+    "category": "失能照護篇",
+    "serviceDescription": "專人協助弱勢長者居家安全簡易修繕及設置生活輔具（如扶手、止滑墊），使其生活更安全便利。",
+    "targetAudience": "年滿65歲，設籍並實際居住本市六個月以上且符合下列任一條件者：・ 本市列冊低收入戶、中低收入戶・ 符合本市中低收入老人生活津貼或身心障礙者生活補助之資格",
+    "serviceTime": "每週一至週五 09:00-17:00",
+    "contactInformation": "財團法人伊甸社會福利基金會 0800-894-580",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=12347C47E1B178D4",
+    "classification": {
+      "residence": "\n2. 設置並實際居住本市六個月以上",
+      "age": "65歲以內",
+      "disability": "\nnone",
+      "income": "\n\n本市列冊低收入戶、中低收入戶"
+    }
+  },
+  {
+    "title": "公費安養",
+    "category": "失能照護篇",
+    "serviceDescription": "透過專業人力服務，提供多層級連續性之全日照顧，使老人得以安享晚年；臺北市立浩然敬老院為臺北市公立公費老人安養護機構，院民無需繳費。",
+    "targetAudience": "設籍本市年滿65歲之低收入戶市民，無直系血親卑親屬且無自有住宅者。​",
+    "serviceTime": "每週一至週五 09:00-17:00",
+    "contactInformation": "臺北市立浩然敬老院 (02)2858-1081",
+    "applicationProcessAndLinks": "https://www.haoran.gov.taipei/News.aspx?n=43FF893B33B38305&sms=7FB9E4D5087FE2CA",
+    "classification": {
+      "residence": "設籍本市",
+      "age": "65歲以上",
+      "disability": "none",
+      "income": "低收入戶"
+    }
+  },
+  {
+    "title": "自費安養",
+    "category": "失能照護篇",
+    "serviceDescription": "透過專業人力照顧，提供長輩安全、安心，樂活的養老環境；收費標準依本市老人自費安養中心收費標準表收費。",
+    "targetAudience": "年滿65歲以上且設籍本市，身心健康並足以自理生活者。",
+    "serviceTime": "每週一至週五 09:00-1700​",
+    "contactInformation": "臺北市政府社會局老人自費安養中心 (02)2939-3146",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/Content_List.aspx?n=FDFF0B3FA01CD208",
+    "classification": {
+      "residence": "設籍本市",
+      "age": "65歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "家庭托顧",
+    "category": "失能照護篇",
+    "serviceDescription": "提供個案身體照顧服務、日常生活照顧服務以及安全性照顧，依據衛生福利部公告長期照顧給付及支付基準收費。",
+    "targetAudience": "符合下列任一條件者：・ 年滿65歲以上失能長者・ 年滿55歲以上失能原住民・ 年滿50歲以上失智症者・ 失能之身心障礙者・ 僅工具性日常生活活動需協助且獨居之老人",
+    "serviceTime": "每週一至週五，每日至多10小時",
+    "contactInformation": "臺北市長期照顧管理中心長照專線1966",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=C7C58613FCCDA57E",
+    "classification": {
+      "residence": "none",
+      "age": "65歲以上,55歲以上,50歲以上",
+      "disability": "失能",
+      "income": "none"
+    }
+  },
+  {
+    "title": "失能者營養餐飲服務",
+    "category": "失能照護篇",
+    "serviceDescription": "補助低收及中低收入失能者送餐服務之膳費，提供每日一到五的送餐服務。",
+    "targetAudience": "設籍並實際居住本市65歲以上，且經本市長期照顧管理中心評估符合資格者。",
+    "serviceTime": "每週一至週五 11:00-12:30",
+    "contactInformation": "臺北市長期照顧管理中心長照專線1966",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/News_Content.aspx?n=5EF22734BA80A829&sms=96505C2A85F034FD&s=24030BB29A2AA20B",
+    "classification": {
+      "residence": "設籍並實際居住本市",
+      "age": "65歲以上",
+      "disability": "失能",
+      "income": "低收,中低收入"
+    }
+  },
+  {
+    "title": "長期照顧交通接送服務",
+    "category": "失能照護篇",
+    "serviceDescription": "提供往(返)居家至醫療院所之就醫或復健接送服務，每月額度1,680元，中低收入戶自付10%，一般戶自付30%。",
+    "targetAudience": "實際居住本市且為長照需要等級(CMS)第4級(含)以上，同時符合下列條件其一者：(一) 65 歲以上老人；(二) 55-64 歲原住民；(三) 身心障礙者；(四) 50 歲以上失智症者。",
+    "serviceTime": "每日06:00為首班車,20:30為末班車,早上 8 時前使用者上車地點需為本市轄區。",
+    "contactInformation": "臺北市長期照顧管理中心長照專線1966",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=1847C5A001C1DC3C",
+    "classification": {
+      "residence": "設置北",
+      "age": "65歲以上",
+      "disability": "身心障礙者",
+      "income": "中低收入戶"
+    }
+  },
+  {
+    "title": "小規模多機能服務",
+    "category": "失能照護篇",
+    "serviceDescription": "提供失智失能長者日間照顧、居家服務及臨時住宿服務，補助標準依長期照顧管理中心評估核定結果。",
+    "targetAudience": "實際居住本市，符合下列條件之一，且須經長期照顧管理中心評估核定使用本市老人日間照顧中心：(一)年滿65歲以上失能長者。(二)年滿50歲以上失智症者。",
+    "serviceTime": "每週一至週五 07:30-17:30（臨時住宿須提前預約）",
+    "contactInformation": "・ 西松老人日間照顧中心 (02)2761-6300・ 大安老人服務暨日間照顧中心 (02)2708-6255・ 復華長青多元服務中心 (02)2717-1393・ 財團法人天主教失智老人社會福利基金會附設臺北市私立聖若瑟失智老人養護中心 (02)2304-6716 #108・ 臺北市私立內湖社區長照機構 (02)2630-7538・ 士林老人服務暨日間照顧中心 (02)2838-1571・ 中正區多元照顧中心 (02)2351-0005",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=3E3C1D86A51BF473",
+    "classification": {
+      "residence": "\t設置台北",
+      "age": "50歲以上, 65歲以上",
+      "disability": "\t失智, \t身障/失能",
+      "income": "none"
+    }
+  },
+  {
+    "title": "住院看護補助",
+    "category": "失能照護篇",
+    "serviceDescription": "為協助因緊急傷病住院治療之經濟弱勢市民獲得適當之照顧。",
+    "targetAudience": "符合下列任一條件者：・ 本市列冊之低收入戶・ 符合本市中低收入老人生活津貼申請資格或領有老人收容安置補助者・ 本市政府社會局輔導中之個案。・ 領有中低收入老人特別照顧津貼之被照顧者、居家照顧服務補助、老人或身心障礙者日間照顧服務補助、家庭托顧服務補助或身心障礙者臨時及短期照顧服務者，不得於同時段重複申領本補助。",
+    "serviceTime": "每週一至週五 09:00-17:00",
+    "contactInformation": "臺北市政府社會局社會工作科 (02)2720-8889 #1633",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=0EADA59EE328427A",
+    "classification": {
+      "residence": "none",
+      "age": "none",
+      "disability": "none",
+      "income": "低收入戶,中低收入"
+    }
+  },
+  {
+    "title": "高齡友善就醫環境",
+    "category": "失能照護篇",
+    "serviceDescription": "透過設置高齡服務據點、樂齡服務台、友善電梯及性別友善廁所等措施，營造人性化無障礙就醫環境。優先提供80歲以上長者報到、檢查等服務，降低看診等候時間。",
+    "targetAudience": "年滿80歲以上長者",
+    "serviceTime": "請參閱臺北市立聯合醫院各院區電子門診表",
+    "contactInformation": "・ 中興院區 (02)2552-3234・ 仁愛院區 (02)2709-3600・ 和平院區 (02)2388-9595・ 婦幼院區 (02)2391-6470・ 忠孝院區 (02)2786-1288・ 陽明院區 (02)2835-3456",
+    "applicationProcessAndLinks": "",
+    "classification": {
+      "residence": "設置台北,設置台北並實際居住",
+      "age": "80歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "老人日間照顧",
+    "category": "失能照護篇",
+    "serviceDescription": "提供失智失能長者至本市老人日間照顧中心使用收托服務，並依長期照顧給付及支付基準收費。",
+    "targetAudience": "實際居住本市並符合下列條件之一，且須經長期照顧管理中心評估核定使用：・ 年滿65歲以上失能長者。・ 年滿50歲以上失智症者。",
+    "serviceTime": "每週一至週五 08:30-17:30",
+    "contactInformation": "臺北市長期照顧管理中心長照專線1966",
+    "applicationProcessAndLinks": "",
+    "classification": {
+      "residence": "設置臺北",
+      "age": "65歲以上",
+      "disability": "失智",
+      "income": "none"
+    }
+  },
+  {
+    "title": "高齡社會地政貼心服務",
+    "category": "失能照護篇",
+    "serviceDescription": "為體恤年滿65歲之長者，本計畫與多單位共同攜手合作，結合公私協力、跨域跨界服務，組成高齡友善團隊。",
+    "targetAudience": "同時符合下列條件者：",
+    "serviceTime": "每週一至週五 08:30-17:00",
+    "contactInformation": "臺北市大安地政事務所 (02)2754-8900 #110 #111",
+    "applicationProcessAndLinks": "https://land.gov.taipei/cp.aspx?n=181241C2C4752828",
+    "classification": {
+      "residence": "none",
+      "age": "65歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "失智症篩檢及確診評估補助計畫",
+    "category": "失能照護篇",
+    "serviceDescription": "提供失智症篩檢及確診評估。",
+    "targetAudience": "設籍本市且年滿65歲以上之長者",
+    "serviceTime": "依各醫院門診時間為主",
+    "contactInformation": "本計畫之合約醫院一覽表，請點選網頁左方按鈕了解詳情。",
+    "applicationProcessAndLinks": "https://dementia.gov.taipei/Content_List.aspx?n=BA15344142ABA065",
+    "classification": {
+      "residence": "設籍本市",
+      "age": "65歲以上",
+      "disability": "失智",
+      "income": "none"
+    }
+  },
+  {
+    "title": "獨居老人服務",
+    "category": "失能照護篇",
+    "serviceDescription": "落實在地老化及人性關懷，藉由提供獨居長者相關補充性、支持性之服務，使獨居之長者獲得妥善、周全之社會照顧及網絡支持。",
+    "targetAudience": "年滿65歲以上，居住本市且非居住於機構並符合下列資格條件之一者，列入獨居：單獨居住且無直系血親卑親屬居住臺北市者，但若長者與親屬關係疏離者，不在此限。夫與妻同住且無直系血親卑親屬居住本市者。雖有同住者，但其同住者符合下列任一狀況，且無直系血親卑親屬居住本市：同住家屬無照顧能力。同住家屬1週內有連續3天（含3天）以上不在者，但間歇性不在者，不予列入。同住者無民法上照顧義務、無照顧契約關係者。",
+    "serviceTime": "每週一至週五 08:30-17:30",
+    "contactInformation": "本市各老人服務中心及聯絡方式，請點選網頁左方按鈕了解詳情。",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=E15926774D45D8A6",
+    "classification": {
+      "residence": "\n設置於台北,設置於台北並實際居住",
+      "age": "65歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "走失手鍊",
+    "category": "失能照護篇",
+    "serviceDescription": "提供手鍊並做檔案管理以協助走失協尋事宜，符合資格者，全額補助手鍊工本費200元及檔案管理費每年500元。",
+    "targetAudience": "年滿65歲、設籍並實際居住於本市，且符合下列其一條件者：領有智能障礙、精神障礙、自閉症、失智症之身心障礙證明、手冊醫師診斷證明書或曾失蹤有查尋人口登記聯單者",
+    "serviceTime": "週一至週五09:00-17:00",
+    "contactInformation": "中華民國老人福利推動聯盟 (02)2597-1700",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=25900D7F6D4932E5",
+    "classification": {
+      "residence": "設籍並實際居住於本市",
+      "age": "65歲以上",
+      "disability": "失智",
+      "income": "none"
+    }
+  },
+  {
+    "title": "老人服務中心",
+    "category": "交通休閒篇",
+    "serviceDescription": "提供長青學苑、社團活動、文康休閒及社區老人服務，並針對本市列冊獨居長者提供個案處遇、資源整合、福利服務諮詢並轉介適切服務資源等。",
+    "targetAudience": "・ 長青學苑、社團活動、文康休閒及社區老人服務：本人或子女設籍本市且年滿60歲以上長者(但夫妻參與同一社團，除一方年滿60歲以外，另一方年滿55歲以上即可)。・ 個案服務：設籍本市年滿65歲以上列冊獨居長者。",
+    "serviceTime": "每週一至週五 08:30-17:30",
+    "contactInformation": "本市各老人服務中心一覽，請點選網頁左方按鈕了解詳情。",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/News_Content.aspx?n=222C9779823FA161&sms=E2A8B6B533500CB0&s=988DB41C8B543559",
+    "classification": {
+      "residence": "設籍本市",
+      "age": "60歲以上,55歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "社團活動",
+    "category": "交通休閒篇",
+    "serviceDescription": "提供語文、技藝、運動、生活休閒等社團活動服務。",
+    "targetAudience": "符合下列任一條件者：・ 本人或其子女設籍臺北市，年滿60歲以上之長者・ 夫妻參與同一社團，除一方年滿60歲以外，另一方年滿55歲以上即可",
+    "serviceTime": "每週一至週五 08:30-17:30",
+    "contactInformation": "本市各老人服務中心一覽，請點選網頁左方按鈕了解詳情。",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/News_Content.aspx?n=222C9779823FA161&sms=E2A8B6B533500CB0&s=988DB41C8B543559",
+    "classification": {
+      "residence": "設籍臺北市",
+      "age": "60歲以內",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "社區慢性病個案管理",
+    "category": "健康保健篇",
+    "serviceDescription": "本市十二區健康服務中心提供獨居長者或具有腦血管疾病、心臟病、高血壓等慢性疾病民眾健康需求評估、關懷訪視及衛教服務。",
+    "targetAudience": "",
+    "serviceTime": "",
+    "contactInformation": "臺北市12區健康服務中心聯絡方式，請點選網頁左方按鈕了解詳情。",
+    "applicationProcessAndLinks": "https://health.gov.taipei/cp.aspx?n=43D2F011F36207ED",
+    "classification": {
+      "residence": "none",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "青銀共居",
+    "category": "健康保健篇",
+    "serviceDescription": "提供陽明公寓長者日常生活陪伴如問安、生活協助、保健，以及學生專長之活動方案帶動。",
+    "targetAudience": "年滿65歲以上，且居住在陽明老人公寓者",
+    "serviceTime": "每日00:00-24:00",
+    "contactInformation": "陽明老人公寓 (02)2861-9296",
+    "applicationProcessAndLinks": "http://yangming.hangan.org/%E6%A9%9F%E6%A7%8B%E4%BB%8B%E7%B4%B9/",
+    "classification": {
+      "residence": "其他",
+      "age": "65歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "租屋補助",
+    "category": "健康保健篇",
+    "serviceDescription": "另，本市「臺北輕鬆住、租金分級補」住宅租金加碼補貼自112年10月2日上午9時開始受理，詳情可參考本局建置之租金補貼網及本局常見問答。",
+    "targetAudience": "",
+    "serviceTime": "",
+    "contactInformation": "",
+    "applicationProcessAndLinks": "https://www.rent-allowance.gov.taipei/",
+    "classification": {
+      "residence": "設置台北",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "老人住宅",
+    "category": "健康保健篇",
+    "serviceDescription": "提供住宿、餐食、休閒活動、生活輔助、簡易醫護及社會福利諮詢等服務。",
+    "targetAudience": "年滿65歲以上，具生活自理能力之長者",
+    "serviceTime": "每週一至週日 00:00-24:00",
+    "contactInformation": "・ 臺北市陽明老人住宅 (02)2861-9296・ 臺北市朱崙老人公寓 (02)2778-5153・ 臺北市大龍老人住宅 (02)6617-8186・ 臺北市中山老人住宅暨服務中心 (02)2542-0006",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=DFA50A3654F8E02B",
+    "classification": {
+      "residence": "none",
+      "age": "65歲以內",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "老人受虐通報",
+    "category": "健康保健篇",
+    "serviceDescription": "提供老人保護個案經濟與法律協助、安置輔導及其他資源連結轉介等服務。",
+    "targetAudience": "年滿65歲以上之老人，且符合下列條件之一者：・ 因子女或依契約對其有扶養義務之人疏忽、虐待或遺棄，造成生命、身體、健康或自由有危難，經查證評估屬實。・ 老人因無扶養義務人扶養照顧，造成生活陷於困境，經查證評估屬實。・ 老人遭受家庭成員之肢體或精神上不法侵害。",
+    "serviceTime": "・ 全國24小時保護專線113・ 臺北市民當家熱線1999：24小時・ 臺北市政府社會局老人福利科：每週一至週五 09:00-17:00",
+    "contactInformation": "・ 全國24小時保護專線113・ 臺北市民當家熱線1999。・ 臺北市家庭暴力暨性侵害防治中心 (02)23615295。・ 臺北市政府社會局老人福利科 (02)2720-8889 #1667",
+    "applicationProcessAndLinks": "https://www.dvsa.gov.taipei/",
+    "classification": {
+      "residence": "none",
+      "age": "65歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "中低收入老人補助裝置假牙及維修",
+    "category": "健康保健篇",
+    "serviceDescription": "提供中低收入老人假牙補助，維持口腔功能及健康，減輕經濟負擔。",
+    "targetAudience": "年滿55歲以上且列冊本市之(中)低收入戶者或年滿65歲以上且符合下列其一條件者：・ 經本市公費收容安置者・ 領有本市中低收入老人生活津貼者・ 中低收入領有本市收容安置補助者・ 領有本市身心障礙者生活補助費者・ 領有本市補助身心障礙者日間照顧及住宿式照顧費用達百分之五十以上者",
+    "serviceTime": "星期一至星期五 09:00-1700",
+    "contactInformation": "・臺北市立聯合醫院6院區中興院區 (02)2552-3234仁愛院區 (02)2709-3600和平院區 (02)2388-9595陽明院區 (02)2835-3456忠孝院區 (02)2786-1288婦幼院區 (02)2391-6470",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=504CCD746B074DAE",
+    "classification": {
+      "residence": "設置台北",
+      "age": "55歲以上,65歲以上",
+      "disability": "失智,身障/失能",
+      "income": "中低收入"
+    }
+  },
+  {
+    "title": "委託獨居長者緊急救援系統服務",
+    "category": "健康保健篇",
+    "serviceDescription": "為解決長者在家居家安全防範，提供緊急救援系統，長者發生緊急狀況時可壓下隨身求救鈕，24小時守護服務中心收到訊息後，將盡快派員查看。（符合資格者可免費使用）",
+    "targetAudience": "一、經本局列冊之65歲以上獨居長者二、未滿65歲，領有本市核(換)發之身心障礙證明或身心障礙手冊，且實際居住本市，且同時符合下列資格，或經本局評估確有此系統之需求：・ 單獨居住或同住家屬無照顧能力者。・ 未接受機構24小時安置且未聘用看護(傭)者。（看護(傭)逃跑期間，雇主得依就業服務法第56條規定，通報移民署專勤隊、勞動部、本市市勞動力重建運用處，可請勞動部提供「廢止聘僱許可函」或取得仲介開立之契約關係終止證明，方可視同獨居）・ 缺乏生活自理及求救能力，經本局評估有使用此系統之需求者。・ 服務對象意識清楚，可配合操作該系統。服務對象不含已有聘僱看護（傭）者、不能配合不活動狀況偵測監控者或經評估不適合使用本系統者。",
+    "serviceTime": "週一至週五 09:00-17:00（12:30-13:30為午休時間）",
+    "contactInformation": "臺北市政府社會局老人福利科 (02)2720-8889 #1692本市各老人服務中心及社會福利服務中心",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=458FA4DBFF3026FE",
+    "classification": {
+      "residence": "設置台北, 設置台北並實際居住, 其他",
+      "age": "65歲以上",
+      "disability": "身障/失能, 其他",
+      "income": "none"
+    }
+  },
+  {
+    "title": "慈悲關懷社區宣導與推廣計畫",
+    "category": "健康保健篇",
+    "serviceDescription": "追求「人互信、社合力、醫到宅、老終安」的目標，關懷長者、身障者、弱勢族群及社會邊緣人，增進民眾健康識能與死亡識能概念，提供完善的人性關懷服務。",
+    "targetAudience": "",
+    "serviceTime": "",
+    "contactInformation": "",
+    "applicationProcessAndLinks": "https://tpech.gov.taipei/News_Content.aspx?n=C0997E596086F2F2&sms=D1EA652AD3F14319&s=FFB2155217314A02",
+    "classification": {
+      "residence": "none",
+      "age": "55歲以上",
+      "disability": "身障/失能",
+      "income": "none"
+    }
+  },
+  {
+    "title": "出院準備服務",
+    "category": "健康保健篇",
+    "serviceDescription": "為住院病人返家前透過跨專業團隊提供完整的評估及計畫，提供急性醫療照護需求及銜接後續居家照顧之橋樑。",
+    "targetAudience": "每位住院病人",
+    "serviceTime": "每週一至週五 08:00-17:00",
+    "contactInformation": "聯合醫院中興院區 (02)2552-3234 #3276聯合醫院仁愛院區 (02)2709-3600 #1230聯合醫院和平婦幼院區 (02)2388-9595 #8420聯合醫院忠孝院區 (02)2786-1288 #8783聯合醫院陽明院區 (02)2835-3456 #6966聯合醫院松德院區 (02)2726-3141 #1503",
+    "applicationProcessAndLinks": "https://tpech.gov.taipei/News_Content.aspx?n=745D11548E39ADDF&s=C575BF564AE6C526",
+    "classification": {
+      "residence": "none",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "老人健保自付額補助",
+    "category": "健康保健篇",
+    "serviceDescription": "補助老人健保自付額，每人每月至多補助826元。",
+    "targetAudience": "(三）未獲政府機關健保自付額之全額補助者。",
+    "serviceTime": "每週一至週五 09:00-17:00 (12:30-13:30為午休時間)",
+    "contactInformation": "臺北市政府社會局老人福利科 (02)2720-8889 #1687",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/cp.aspx?n=22B00B4927757FFE",
+    "classification": {
+      "residence": "none",
+      "age": "none",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "臺北市特定對象失業者穩定就業補助辦法",
+    "category": "終身學習篇",
+    "serviceDescription": "針對設籍臺北市滿4個月以上，並符合特定對象身份之失業者(含66歲以上之高齡者)，經本處各就業服務站推介工作並穩定就業達1個月以上，且勞工保險投保薪資級距在當年度公告標準以下者，每個月提供新臺幣5仟元整的穩定就業補助金，最長補助6個月。",
+    "targetAudience": "",
+    "serviceTime": "",
+    "contactInformation": "・ 南港東明青銀站(02)2740-0922",
+    "applicationProcessAndLinks": "https://eso.gov.taipei/News_Content.aspx?n=72084C8C93FDAB33&sms=375003E91D8BCA66&s=D6ABCC0BBD71DC02",
+    "classification": {
+      "residence": "設籍臺北市滿4個月以上",
+      "age": "66歲以上",
+      "disability": "none",
+      "income": "低收入"
+    }
+  },
+  {
+    "title": "銀髮貴人薪傳服務",
+    "category": "終身學習篇",
+    "serviceDescription": "甄選一批退而不休且學有專長或特殊才（技）藝之長者，將其所長薪傳下一代及分享予社會大眾。社會局受託單位再媒合銀髮貴人至本市各運用單位提供公益性質之薪傳教學服務。",
+    "targetAudience": "・ 本市社區發展協會",
+    "serviceTime": "每週一至週五 09:00-17:00",
+    "contactInformation": "轉02616李先生, 轉02460曾先生, 轉03239葉小姐",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/News_Content.aspx?n=222C9779823FA161&sms=E2A8B6B533500CB0&s=7B3F8B646D0A5442",
+    "classification": {
+      "residence": "其他",
+      "age": "50歲以上,55歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "樂齡運動巡迴指導團",
+    "category": "終身學習篇",
+    "serviceDescription": "深入鄰里推廣樂齡運動、幫助長輩建立規律運動習慣，同時找出能量強且有自主運作可能的單位，輔導其成為「社區樂齡運動據點」，並媒合本案培訓的運動師資，帶動樂齡運動產業的蓬勃發展。",
+    "targetAudience": "符合下列條件者，即可申請為期四週的「免費運動指導課程」20人以上且年滿55歲的團體其他具有投保證明的適宜場地",
+    "serviceTime": "週一至週五 8:30-17:30",
+    "contactInformation": "臺北市政府體育局全民運動科 (02)2570-2330 #6128",
+    "applicationProcessAndLinks": "https://www.facebook.com/%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E9%AB%94%E8%82%B2%E5%B1%80-%E6%A8%82%E9%BD%A1%E5%B7%A1%E8%BF%B4%E9%81%8B%E5%8B%95%E6%8C%87%E5%B0%8E%E5%9C%98-1719892024895113/?epa=SEARCH_BOX",
+    "classification": {
+      "residence": "none",
+      "age": "55歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  },
+  {
+    "title": "長青學苑",
+    "category": "終身學習篇",
+    "serviceDescription": "於每年春、秋開課，以充實長者精神生活、活化身體機能、拓展人際關係、增廣學識見聞。",
+    "targetAudience": "年滿60歲以上，且本人、配偶或其直系血親其中之一設籍本市者皆可參加。",
+    "serviceTime": "週一至週五 09:00-17:00（12:30-13:30為午休時間）",
+    "contactInformation": "(02)2720-8889 #1677",
+    "applicationProcessAndLinks": "https://dosw.gov.taipei/News_Content.aspx?n=222C9779823FA161&sms=E2A8B6B533500CB0&s=F87AB6F01D00AB13",
+    "classification": {
+      "residence": "\n設籍本市",
+      "age": "60歲以上",
+      "disability": "none",
+      "income": "none"
+    }
+  }
+]
